@@ -1,0 +1,8 @@
+azure.cognitiveservices.vision.computervision==0.6.0
+azure.cognitiveservices.vision.face==0.4.1
+beautifulsoup4==4.9.1
+gast==0.3.3
+msrest==0.6.18
+numpy==1.19.0
+opencv-python==4.3.0.36
+selenium==3.141.0
